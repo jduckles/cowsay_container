@@ -5,5 +5,5 @@
 # Example:
 
 ```
-docker run -e messages="Some Messages For Cows" jduckles/cow
+docker run -e messages="Some Messages For 🐄🐮" jduckles/cow
 ```
